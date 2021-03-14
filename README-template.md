@@ -27,5 +27,7 @@ Live page [here](https://github.com/margittennosaar/markdown_study_materials)
 
 ## Authors and acknowledgment
 
-If it is a stu
+Margit Tennosaar
+- GitHub @margittennosaar
+- [LinkedIn](https://www.linkedin.com/in/margittennosaar/)
 
